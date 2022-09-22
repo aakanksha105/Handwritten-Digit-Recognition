@@ -2,7 +2,7 @@
 
 In this project, handwritten text recognition is done using convolutional neural network (CNN).
 
-Steps performed:
+## Steps performed:
 
 1. Import the libraries and load the MNIST dataset
 1. Data Preprocess and Normalize
